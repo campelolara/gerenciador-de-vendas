@@ -8,5 +8,5 @@ Desenvolver um sistema de controle de vendas e estoque capaz de atender às nece
 
 ## 📁 Conteúdo do Repositório
 
-📄 Documentação - Requisitos, casos de uso, diagrama de atividades e modelo de entidade e relacionamento
+📄 Documentação - Requisitos, casos de uso, diagrama de atividades e modelo de entidade e relacionamento /ln
 🖼️ Protótipos  - Telas da aplicação 
