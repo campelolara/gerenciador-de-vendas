@@ -11,5 +11,5 @@ O Geek Salles System (GSS) é um protótipo de sistema desenvolvido com o objeti
 
 ## **Conteúdo do Repositório**
 
-- Documentação - Requisitos, casos de uso, diagrama de atividades e modelo de entidade e relacionamento
+- Documentação - Requisitos, casos de uso, diagrama de classe de análise e modelo de entidade e relacionamento
 - Protótipos  - Telas da aplicação 
